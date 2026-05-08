@@ -1,3 +1,9 @@
 
 
 Today is Sunday, Monday will come soon...................
+
+
+It is *recommended* that you leave the pod and service networks as the defaults. If you change them then you will also need to edit the Weave networking manifests to accommodate your change.
+
+If you do decide to change any of these, please treat as personal preference and do not raise a pull request.
+
